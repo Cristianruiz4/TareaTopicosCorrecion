@@ -1,8 +1,8 @@
-# Manual de Usuario - Sistema de Gestión de Archibos  
+# Manual de Usuario - Sistema de Gestión de Archivos  
 
-## Introdicción  
+## Introducción  
 
-El sistema de gestion de archibos (SGA) es una herrmienta que permite a los usuaros guardar, eliminar y modificar documentos. Con este manual podra entender como se usa el sistema, aunque algunas funciones no estan bien explicadas o talvez no se entiende al principio.  
+El sistema de gestión de archivos (SGA) es una herramienta que permite a los usuarios guardar, eliminar y modificar documentos. Con este manual podrá entender como se usa el sistema, aunque algunas funciones no están bien explicadas o talvez no se entiende al principio.  
 
 ## Requisitos del sistema  
 
