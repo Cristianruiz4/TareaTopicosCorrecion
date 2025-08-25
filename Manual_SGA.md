@@ -6,19 +6,18 @@ El sistema de gestion de archibos (SGA) es una herrmienta que permite a los usua
 
 ## Requisitos del sistema  
 
-- Tener un computador con Window, Linux o MacOS (se recomienda Window 7 o superior pero tambien sirve en otros).  
-- Memoria RAM de 2 GB o menos, aunque aveces funciona mejor con más.  
-- Coneccion a internet estable para poder descargar los programas si no no va a correr.  
+— Tener un computador con Windows, Linux o Mac OS (se recomienda Windows 7 o superior, pero también sirve en otros).  
+— Memoria RAM de 2 GB o menos, aunque a veces funciona mejor con más.  
+— Conexión a internet estable para poder descargar los programas si no no va a correr.  
 
-## Instlacion  
+## Instalación  
 
-1. Descarge el archivo desde el repositorio.  
-2. Descomprima el archibo en cualqier carpeta.  
+1. Descargue el archivo desde el repositorio.  
+2. Descomprima el archivo en cualquier carpeta.  
 3. Ejecute el programa llamado **setup_final_version_ultima.exe**.  
-4. Si le aparece algun error, cierre todo y vuelve abrir.  
+4. Si le aparece algún error, cierre todo y vuelve abrir.  
 
 > Nota: Algunos antivirus dicen que es virus pero no es cierto, solo hay que ignorar la alerta.  
-
 ## Uso basico  
 
 - Para **abrir un archibo** de click en el menu “Open” y selecciona el archibo.  
