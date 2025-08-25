@@ -21,20 +21,20 @@ El sistema de gestión de archivos (SGA) es una herramienta que permite a los us
 ## Uso basico  
 
 - Para **abrir un archibo** de click en el menu “Open” y selecciona el archibo.  
-- Para **guardar cambios**, preciona Ctrl+S pero a veces no guarda todo, por lo que es recomdable hacer copias manuales.  
-- La funcion “Delete” elimina los archibos pero no siempre se pueden recuperar despues, aunque a veces si.  
+- Para **guardar cambios**, preciona Ctrl+S pero a veces no guarda todo, por lo que es recomendable hacer copias manuales.  
+- La funcion “Delete” elimina los archivos pero no siempre se pueden recuperar despues, aunque a veces si.  
 - El boton “Update” no sirve mucho, mejor no usarlo.  
 
 ## Preguntas frecuentes  
 
-**¿Que hago si el programa no habre?**  
-Debe revisar si el sistema cumple con los requicitos. Si no, reinstale.  
+**¿Que hago si el programa no abre?**  
+Debe revisar si el sistema cumple con los requisitos. Si no, reinstale.  
 
 **¿Es seguro guardar informacion sensible?**  
 El sistema es seguro pero no se recomienda poner contraseñas, datos bancarios o documentos importantes porque podria perderse.  
 
 **¿El sistema tiene soporte tecnico?**  
-No, por ahora no ay soporte. El usuario mismo deve resolver los problemas.  
+No, por ahora no hay soporte. El usuario mismo debe resolver los problemas.  
 
 ## Conclucion  
 
